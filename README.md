@@ -4,7 +4,7 @@ In this repository, I will try to predict the optimum number of clusters and rep
 
 Languages used: Python
 
-Dataset link: http://bit.ly/w-data
+Dataset link: https://bit.ly/3kXTdox
 
 Algorithm used: K-Means Clustering Algorithm
 
